@@ -26,4 +26,4 @@ NIM: *24051204087*
 Kelas: *TI-C*  
 Tahun: 2025
 
-YouTube: [Klik di sini untuk menonton](https://youtu.be/dbwDS6PLHgA)
+YouTube: [Klik di sini untuk menonton](https://youtu.be/X9InV_TyC20)
