@@ -23,5 +23,5 @@ Website ini menampilkan simulasi toko online yang memungkinkan pengguna untuk:
 ## 👤 Pembuat
 Nama: *Jonathan*  
 NIM: *24051204087*  
-Kelas: *[Kelas PBP]*  
+Kelas: *TI-C*  
 Tahun: 2025
